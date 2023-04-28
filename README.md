@@ -1,1 +1,2 @@
 # ITMO-data_sctructures_algorithms
+## The study of algorithms and data structures. Collecting solutions to various problems using a variety of algorithms. Description of the complexity of work, mechanisms of work of algorithms
